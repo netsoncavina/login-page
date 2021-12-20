@@ -1,0 +1,17 @@
+.caixa {
+  margin-left: 15%;
+  height: 600px;
+  width: auto;
+}
+
+.clicable-text {
+  margin-left: -200px;
+  cursor: pointer;
+}
+.field-icon {
+  float: right;
+  margin-top: -25px;
+  position: relative;
+  z-index: 2;
+  cursor: pointer;
+}
